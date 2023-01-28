@@ -9,7 +9,7 @@ I've been learning in code for one and half years initially i start with c# and 
 
 * 🖥️  See my portfolio at [here](http://github.com/prashant2071?tab=repositories)
 * ✉️  You can contact me at [pbt133393@gmail.com](mailto:pbt133393@gmail.com)
-* 🧠  I'm learning Docker ,harbor,portainer and aws
+* 🧠  I'm currently learning Docker ,jenkins,kubernates and aws
 
 ### Skills
 
